@@ -1,0 +1,48 @@
+<HTML>
+<BODY>
+
+ 
+ 
+ ____ _   _ ___ ____  _   _    ____ _____ _   _    _    
+ / ___| | | |_ _|  _ \| | | |  / ___| ____| \ | |  / \   
+| |   | |_| || || |_) | | | | | |   |  _| |  \| | / _ \  
+| |___|  _  || ||  _ <| |_| | | |___| |___| |\  |/ ___ \ 
+ \____|_| |_|___|_| \_\\___/   \____|_____|_| \_/_/   \_\
+
+#Copyright of CHIRANJEEVI , 2021     #
+#                                    #
+######################################                                                         
+HOW TO RUN SHERLOCK IN KALI LINUX 2021.2
+
+STEP:1
+
+COPY THE SHERLOCK FROM GITHUB.COM
+
+-----------------------------------------------
+
+STEP:2
+
+IN KALI TYPE : git clone (paste the link which we have copied from step 1)
+
+------------------------------------------------
+
+STEP:3
+
+GO INSIDE OF SHERLOCK FOLDER USING THIS COMMAND
+
+cd /SHERLOCK
+
+and now type : pip3 install -r requirements.txt
+
+
+now run sherlock script : python3 sherlock -- help
+
+
+to do tesing type : python3 sherlock (target username)
+
+
+NOTE: IF YOU ARE FACING AN ERROR COME BACK FORM SHERLOCK FOLDER USING CD..
+
+NOW TYPE : SUDO CHMOD 777 SHERLOCK
+</BODY> 
+</HTML>
