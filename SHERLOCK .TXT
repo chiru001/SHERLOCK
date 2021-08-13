@@ -1,7 +1,3 @@
-<HTML>
-<BODY>
-
- 
  
  ____ _   _ ___ ____  _   _    ____ _____ _   _    _    
  / ___| | | |_ _|  _ \| | | |  / ___| ____| \ | |  / \   
@@ -41,8 +37,6 @@ now run sherlock script : python3 sherlock -- help
 to do tesing type : python3 sherlock (target username)
 
 
-NOTE: IF YOU ARE FACING AN ERROR COME BACK FORM SHERLOCK FOLDER USING CD..
+NOTE: IF YOU ARE FACING AN ERROR COME BACK FROM SHERLOCK FOLDER USING CD..
 
 NOW TYPE : SUDO CHMOD 777 SHERLOCK
-</BODY> 
-</HTML>
